@@ -3,7 +3,7 @@
    <description></description>
    <name>div_playing music_AB7Lab Id5V1</name>
    <tag></tag>
-   <elementGuidId>3710aa54-1710-4ab4-bce2-8697dd6c919b</elementGuidId>
+   <elementGuidId>fec9c213-b1a1-4b35-b0b1-8691ccb7435b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>ce74d026-f7cb-488d-811c-e2bed404d404</webElementGuid>
+      <webElementGuid>51a33c65-9a8c-4ca8-baf4-3963022223f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>AB7Lab Id5V1</value>
-      <webElementGuid>113b7d09-adfc-4e95-a49d-2867083d9a82</webElementGuid>
+      <webElementGuid>3373be0c-fed3-41cc-9a83-d06aee7eb500</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;i19&quot;)/div[@class=&quot;vd3tt&quot;]/div[@class=&quot;AB7Lab Id5V1&quot;]</value>
-      <webElementGuid>4ed71156-cb38-47b4-a2af-cbf22ff6877f</webElementGuid>
+      <webElementGuid>e5a89ef8-a266-4b78-94da-5233764b9f27</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='i19']/div[3]/div</value>
-      <webElementGuid>b8715112-6c90-4685-bca9-8f168f23bd34</webElementGuid>
+      <webElementGuid>a75ffe25-e57a-41a9-b84e-6cfc85d0dd68</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='playing music'])[1]/following::div[8]</value>
-      <webElementGuid>6ab8e03a-7592-44f6-9425-2b5bb9ed4dce</webElementGuid>
+      <webElementGuid>1af97ade-40d5-471c-b946-edfc9ccf33e8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='drawing'])[1]/following::div[19]</value>
-      <webElementGuid>97bbf462-51ac-4d66-a7e7-0b5b942594e4</webElementGuid>
+      <webElementGuid>89738ed0-d8ef-4452-8a34-4e17448ac829</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='a new language'])[1]/preceding::div[2]</value>
-      <webElementGuid>060d9a34-99ac-4fa1-bb1f-2d5834d0afce</webElementGuid>
+      <webElementGuid>901cf489-df69-477a-840e-08f34b38a62a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='a new sport activity'])[1]/preceding::div[11]</value>
-      <webElementGuid>7d56a2ee-cf6d-4d26-8bb5-23dc370fed6e</webElementGuid>
+      <webElementGuid>103018ad-2363-4a4e-bc2e-e155d4774401</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/label/div/div/div/div[3]/div</value>
-      <webElementGuid>6a39c609-2ae8-47e5-8f70-ac1516e4dd54</webElementGuid>
+      <webElementGuid>89aa75f8-396d-4536-86fd-11f7adcb72e1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

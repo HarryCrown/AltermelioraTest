@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input__whsOnd zHQkBf_1</name>
+   <name>input__whsOnd zHQkBf_1_2</name>
    <tag></tag>
-   <elementGuidId>ae684c2e-9f84-46f2-846f-8e8c5b837782</elementGuidId>
+   <elementGuidId>6510da52-c147-48a6-affc-4e7e6e9074ec</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@type='email']</value>
+         <value>//input[@type='url']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>div.rFrNMe.k3kHxc.RdH0ib.yqQS1.Z02LAf.zKHdkd.u3bW4e.CDELXb > div.aCsJod.oJeWuf > div.aXBtI.Wic03c > div.Xb9hP > input.whsOnd.zHQkBf</value>
+         <value>div.rFrNMe.k3kHxc.RdH0ib.yqQS1.GcDoDc.zKHdkd > div.aCsJod.oJeWuf > div.aXBtI.Wic03c > div.Xb9hP > input.whsOnd.zHQkBf</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>bd48312c-47da-4463-b9d8-b1b38eb1c4af</webElementGuid>
+      <webElementGuid>ab94fd25-b91d-4fde-a571-cfcdd35e9867</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>email</value>
-      <webElementGuid>a5664dcb-b858-44d3-86ee-53d468588aef</webElementGuid>
+      <value>url</value>
+      <webElementGuid>7f5e9a1f-117a-4735-9401-ae8563d3fe80</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>whsOnd zHQkBf</value>
-      <webElementGuid>cc23a63c-6cde-41ee-b440-713cd5a586a0</webElementGuid>
+      <webElementGuid>ae3332b9-6986-410b-bf05-6f9e9040336b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>jsname</name>
       <type>Main</type>
       <value>YPqjbf</value>
-      <webElementGuid>f6a106d9-2997-4da7-9c3f-1e5569fd06b3</webElementGuid>
+      <webElementGuid>95e79b16-0747-4f8b-849d-028e7ac14730</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>344d2301-ee23-49b8-8845-c812825ead7d</webElementGuid>
+      <webElementGuid>f901350e-7d77-4192-bf4b-91e0376880df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,23 +62,23 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>415b8f56-5f72-4397-8448-c7b20d05df70</webElementGuid>
+      <webElementGuid>dd70f8fd-a3d3-4d78-8890-0a1cfff6b7ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-labelledby</name>
       <type>Main</type>
-      <value>i5</value>
-      <webElementGuid>6da4fd10-f83a-4844-81e6-0788f495b168</webElementGuid>
+      <value>i28</value>
+      <webElementGuid>ef1cccf1-ca14-4c4c-b326-70cd84e63e59</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-describedby</name>
       <type>Main</type>
-      <value>i6 i7</value>
-      <webElementGuid>d5972872-2b4f-4d49-8b15-3244364648f9</webElementGuid>
+      <value>i29 i30</value>
+      <webElementGuid>d530a2e0-b192-4bcb-bbdd-a6197ae790e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>dir</name>
       <type>Main</type>
       <value>auto</value>
-      <webElementGuid>51a13a57-6bce-4250-ad27-8ab87492131b</webElementGuid>
+      <webElementGuid>e28e803e-8d26-4422-8b91-ee3770d4abd4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,62 +94,46 @@
       <name>data-initial-dir</name>
       <type>Main</type>
       <value>auto</value>
-      <webElementGuid>554388bb-83f2-4d84-a241-bae2bab41045</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-initial-value</name>
-      <type>Main</type>
-      <value>r</value>
-      <webElementGuid>b4a9f1bb-56d9-4ee7-8ffb-dd0ac478983b</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>badinput</name>
-      <type>Main</type>
-      <value>false</value>
-      <webElementGuid>4ef01745-1179-42a4-8835-285fda0de335</webElementGuid>
+      <webElementGuid>31f36017-5952-4ef0-a944-fcbaa00edc8d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mG61Hd&quot;)/div[@class=&quot;RH5hzf RLS9Fe&quot;]/div[@class=&quot;lrKTG&quot;]/div[@class=&quot;o3Dpx&quot;]/div[@class=&quot;Qr7Oae&quot;]/div[1]/div[@class=&quot;geS5n&quot;]/div[@class=&quot;AgroKb&quot;]/div[@class=&quot;rFrNMe k3kHxc RdH0ib yqQS1 Z02LAf zKHdkd u3bW4e CDELXb&quot;]/div[@class=&quot;aCsJod oJeWuf&quot;]/div[@class=&quot;aXBtI Wic03c&quot;]/div[@class=&quot;Xb9hP&quot;]/input[@class=&quot;whsOnd zHQkBf&quot;]</value>
-      <webElementGuid>7dc27df9-e45f-4250-bc7c-954516d3c78d</webElementGuid>
+      <value>id(&quot;mG61Hd&quot;)/div[@class=&quot;RH5hzf RLS9Fe&quot;]/div[@class=&quot;lrKTG&quot;]/div[@class=&quot;o3Dpx&quot;]/div[@class=&quot;Qr7Oae&quot;]/div[1]/div[@class=&quot;geS5n Jj6Lae&quot;]/div[@class=&quot;AgroKb&quot;]/div[@class=&quot;rFrNMe k3kHxc RdH0ib yqQS1 GcDoDc zKHdkd&quot;]/div[@class=&quot;aCsJod oJeWuf&quot;]/div[@class=&quot;aXBtI Wic03c&quot;]/div[@class=&quot;Xb9hP&quot;]/input[@class=&quot;whsOnd zHQkBf&quot;]</value>
+      <webElementGuid>2c774390-23e9-46e3-8b84-19e3fa840536</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@type='email']</value>
-      <webElementGuid>e21306a7-3be6-4f6a-af9f-fc9a6f269b27</webElementGuid>
+      <value>//input[@type='url']</value>
+      <webElementGuid>e57bd5c7-8c6a-4f50-91c0-41e5f70f8a5a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='mG61Hd']/div[2]/div/div[2]/div[2]/div/div/div[2]/div/div/div/div/input</value>
-      <webElementGuid>448b7816-6dc4-4c06-936c-8f6d2d9d9098</webElementGuid>
+      <value>//form[@id='mG61Hd']/div[2]/div/div[2]/div[4]/div/div/div[2]/div/div/div/div/input</value>
+      <webElementGuid>82ed71ec-a1e6-4e3d-a28e-2c5aa05ce87f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/div/div[2]/div/div/div/div/input</value>
-      <webElementGuid>70c380ae-55b3-488c-9904-07062344d4d3</webElementGuid>
+      <value>//div[4]/div/div/div[2]/div/div/div/div/input</value>
+      <webElementGuid>b185e2fe-6a4e-4ee7-a202-2127e9eb2939</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'email']</value>
-      <webElementGuid>cfe28b2c-b0a3-42d9-9089-b7083a19e513</webElementGuid>
+      <value>//input[@type = 'url']</value>
+      <webElementGuid>18ac6683-46a8-4ffe-988d-e4722590d535</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
